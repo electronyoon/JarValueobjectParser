@@ -1,4 +1,4 @@
-package com;
+package javavalueobjectparser;
 
 import java.io.*;
 import javax.tools.*;

@@ -1,4 +1,4 @@
-package com;
+package javavalueobjectparser;
 
 import com.google.gson.Gson;
 
